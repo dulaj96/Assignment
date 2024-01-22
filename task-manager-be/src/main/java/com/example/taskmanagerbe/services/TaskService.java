@@ -11,10 +11,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @author danushka
- * 2024-01-21
- */
 @Service
 @RequiredArgsConstructor
 public class TaskService {

@@ -19,10 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * @author danushka
- * 2024-01-21
- */
 @RestController
 @RequestMapping("/tasks")
 @RequiredArgsConstructor
